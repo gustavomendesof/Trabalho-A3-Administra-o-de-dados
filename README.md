@@ -29,4 +29,4 @@ A partir dos dados referentes à pluviometria mensal do estado de Alagoas no ano
 
 - Possibilidade de Filtragem de Informações: possibilitaremos a filtragem por período, permitindo que os usuários filtrem os dados através de um mês específico; filtragem por região, permitindo a busca de dados de uma região para análises mais localizadas; e filtragem por quantidade de chuva, garantindo uma busca com base em uma quantidade específica de milímetros. 
 
--     Ferramentas utilizadas: para realização do trabalho utilizaremos a ferramenta Microsoft Power BI.
+- Ferramentas utilizadas: para realização do trabalho utilizaremos a ferramenta Microsoft Power BI.
